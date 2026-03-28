@@ -1,0 +1,4 @@
+:HL["/paint-pro-handyman/_next/static/chunks/14otkjjd23oyj.css","style"]
+:HL["https://api.fontshare.com/v2/css?f[]=clash-display@200,300,400,500,600,700&display=swap","style"]
+:HL["https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@100,200,300,400,500,700,800,900&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"services","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fTiaw92nj9S84VetwJtTx"}
