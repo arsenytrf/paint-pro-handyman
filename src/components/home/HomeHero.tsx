@@ -139,7 +139,7 @@ export default function HomeHero() {
               </span>
               <span
                 ref={line2Ref}
-                className="block text-5xl sm:text-7xl lg:text-8xl xl:text-9xl text-terra-500"
+                className="block text-4xl sm:text-6xl lg:text-7xl xl:text-8xl text-terra-500"
               >
                 Craftsmanship.
               </span>
