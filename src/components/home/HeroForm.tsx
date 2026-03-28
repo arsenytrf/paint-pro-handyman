@@ -142,7 +142,7 @@ export default function HeroForm() {
             id="hero-date"
             name="date"
             type="date"
-            className="w-full bg-cream-100/80 border border-cream-300 text-stone-800 rounded-lg px-4 py-3 text-sm focus:outline-none focus:border-terra-500 focus:ring-1 focus:ring-terra-500 transition-colors duration-300 min-h-[46px]"
+            className="w-full bg-cream-100/80 border border-cream-300 text-stone-800 rounded-lg px-4 py-3 text-sm focus:outline-none focus:border-terra-500 focus:ring-1 focus:ring-terra-500 transition-colors duration-300 min-h-[46px] [-webkit-appearance:none] [color-scheme:light]"
           />
         </div>
 
